@@ -1,0 +1,29 @@
+{
+  "name": "task-manager-api",
+  "version": "1.0.0",
+  "description": "\"# task-manager-api\" \r \"# task-manager-api\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raniafathallah/task-manager-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raniafathallah/task-manager-api/issues"
+  },
+  "homepage": "https://github.com/raniafathallah/task-manager-api#readme",
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "mongoose": "^6.6.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
